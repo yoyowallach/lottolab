@@ -36,7 +36,7 @@
  - Pacific Time (WA)
  - 10%
 ## Pending Approval
-Maadhey Sharma
+**Maadhey Sharma**
 - Javascript (1 month)
 - Pacific Time (CA)
 - Unknown percentage
