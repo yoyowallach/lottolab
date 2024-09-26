@@ -35,11 +35,6 @@
  - 5 Years of Experience
  - Pacific Time (WA)
  - 10%
-## Pending Approval
-**Maadhey Sharma**
-- Javascript (1 month)
-- Pacific Time (CA)
-- Unknown percentage
  
 ## [Project Git Repository](https://github.com/yoyowallach/lottolab)
 The LottoLab Git Repository is still under construction
